@@ -1,0 +1,7 @@
+C:\Users\filip.anastasovski\Desktop\Filip_A\c# advanced\chas 4\Vezba\CSharpAdvanced-Class4\bin\Debug\CSharpAdvanced-Class4.exe.config
+C:\Users\filip.anastasovski\Desktop\Filip_A\c# advanced\chas 4\Vezba\CSharpAdvanced-Class4\bin\Debug\CSharpAdvanced-Class4.exe
+C:\Users\filip.anastasovski\Desktop\Filip_A\c# advanced\chas 4\Vezba\CSharpAdvanced-Class4\bin\Debug\CSharpAdvanced-Class4.pdb
+C:\Users\filip.anastasovski\Desktop\Filip_A\c# advanced\chas 4\Vezba\CSharpAdvanced-Class4\obj\Debug\CSharpAdvanced-Class4.csprojAssemblyReference.cache
+C:\Users\filip.anastasovski\Desktop\Filip_A\c# advanced\chas 4\Vezba\CSharpAdvanced-Class4\obj\Debug\CSharpAdvanced-Class4.csproj.CoreCompileInputs.cache
+C:\Users\filip.anastasovski\Desktop\Filip_A\c# advanced\chas 4\Vezba\CSharpAdvanced-Class4\obj\Debug\CSharpAdvanced-Class4.exe
+C:\Users\filip.anastasovski\Desktop\Filip_A\c# advanced\chas 4\Vezba\CSharpAdvanced-Class4\obj\Debug\CSharpAdvanced-Class4.pdb
